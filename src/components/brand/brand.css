@@ -1,0 +1,22 @@
+.xconsulting_brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.xconsulting_brand div {
+    flex: 1;
+    max-width: 120px;
+    min-width: 30px;
+    margin: 1rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.xconsulting_brand div img {
+    width: 100px;
+    height: 100px;
+}
