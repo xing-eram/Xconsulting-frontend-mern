@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '../../assets/Imagen 1.png';
+import logo from '../../assets/logo_transparent.png';
 import './navbar.css';
 
 
@@ -18,6 +18,7 @@ const Navbar = () => {
           <p><a href="#whatXconsulting">Xsoluciones</a></p>
           <p><a href="#possibility">Xinsights</a></p>
           <p><a href="#features">Xwork</a></p>
+          <p><a href="#blog">blog</a></p>
         </div>
       </div>
       <div className="xconsulting_navbar-sign">
